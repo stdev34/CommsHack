@@ -1,0 +1,56 @@
+[
+	{
+		"question": "Which of these weapons was designed to fit on the end of a rifle barrel?",
+		"possible": [
+			"Machete",
+			"Bayonet",
+			"Pike",
+			"Mace"
+		],
+		"answer": "B"
+	},
+
+	{
+		"question": "If today is Friday the 13th, the first of the month fell on what day of the week?",
+		"possible": [
+			"Thursday",
+			"Saturday",
+			"Sunday",
+			"Monday"
+		],
+		"answer": "C"
+	},
+
+	{
+		"question": "Batman is the secret identity of what comic book character?",
+		"possible": [
+			"Peter Parker",
+			"Bruce Wayne",
+			"Clark Kent",
+			"Dick Grayson"
+		],
+		"answer": "B"
+	},
+
+	{
+		"question": "Which airline has a shamrock in its logo?",
+		"possible": [
+			"Qantus",
+			"British Airways",
+			"Finnair",
+			"Aer Lingus"
+		],
+		"answer": "D"
+	},
+
+	{
+		"question": "Who was president of the United States during the Cuban Missile Crisis?",
+		"possible": [
+			"Harry Truman",
+			"Dwight D. Eisenhower",
+			"John F.Kennedy",
+			"Lyndon Johnson"
+		],
+		"answer": "C"
+	}
+]

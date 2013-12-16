@@ -1,0 +1,56 @@
+[
+	{
+		"question": "What fictional film brothers repeatedly claimed that they were 'on a mission from God'?",
+		"possible": [
+			"The Faboulous Baker Boys",
+			"The Blues Brothers",
+			"The Brothers McMullen",
+			"The Corsican Brothers"
+		],
+		"answer": "B"
+	},
+
+	{
+		"question": "What article of clothing is a garter belt typically used to hold up?",
+		"possible": [
+			"Pants",
+			"Men's Girdle",
+			"Necktie",
+			"Stockings"
+		],
+		"answer": "D"
+	},
+
+	{
+		"question": "'Komitet gosudarstvennoi bezopasnosti' is better known in the U.S. by what abbreviation?",
+		"possible": [
+			"KGB",
+			"USSR",
+			"GDR",
+			"KFC"
+		],
+		"answer": "A"
+	},
+
+	{
+		"question": "In the poem starting 'Twas the Night Before Christmas' what reindeer is named last?",
+		"possible": [
+			"Dancer",
+			"Comet",
+			"Blitzen",
+			"Cupid"
+		],
+		"answer": "C"
+	},
+
+	{
+		"question": "Which of the following is part of the legislative branch of the U.S. government?",
+		"possible": [
+			"Senate",
+			"FBI",
+			"Department of Commerce",
+			"President"
+		],
+		"answer": "A"
+	}
+]

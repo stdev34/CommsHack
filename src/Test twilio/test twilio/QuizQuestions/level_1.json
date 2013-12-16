@@ -1,0 +1,55 @@
+[
+	{
+		"question": "The main character in the 2000 movie 'Gladiator' fights what animal in the arena?",
+		"possible": [
+			"Leopard",
+			"Lion",
+			"Jackal",
+			"Tiger"
+		],
+		"answer": "D"
+	},
+
+	{
+		"question": "Scholars or intellectuals are commonly said to reside in what kind of tower?",
+		"possible": [
+			"Clock",
+			"Radio",
+			"Ivory",
+			"Water"
+		],
+		"answer": "C"
+	},
+
+	{
+		"question": "According to a proverb about hope, 'There's always a light at the end of' what?",
+		"possible": [
+			"The Journey",
+			"The Day",
+			"The Tunnel",
+			"E.T.'s Finger"
+		],
+		"answer": "C"
+	},
+	{
+		"question": "In what children's game are participants chased by someone designated 'It'?",
+		"possible": [
+			"Tag",
+			"Simon Says",
+			"Charades",
+			"Hopscotch"
+		],
+		"answer": "A"
+	},
+
+	{
+		"question": "The TV series 'Sex and the City' is primarily set in what city?",
+		"possible": [
+			"Chicago",
+			"New York City",
+			"Miami",
+			"San Francisco"
+		],
+		"answer": "B"
+	}
+]

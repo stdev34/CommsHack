@@ -1,0 +1,56 @@
+[
+	{
+		"question": "A carousel is also known by what other name?",
+		"possible": [
+			"Tilt-a-whirl",
+			"Merry-go-round",
+			"Bumper Cars",
+			"Roller coaster"
+		],
+		"answer": "B"
+	},
+
+	{
+		"question": "According to tradition, where does Santa Clause live?",
+		"possible": [
+			"North Pole",
+			"South Pole",
+			"Moon",
+			"Mt. Everest"
+		],
+		"answer": "A"
+	},
+
+	{
+		"question": "By definition if you're on 'terra firma', you are on what?",
+		"possible": [
+			"Water",
+			"Shaky Ground",
+			"Solid Earth",
+			"Firm Mattress"
+		],
+		"answer": "C"
+	},
+
+	{
+		"question": "According to an old expression, you can lead a horse to water, but you can't do what?",
+		"possible": [
+			"Make him drink",
+			"Make him wash",
+			"Lead him away",
+			"Lead a cow"
+		],
+		"answer": "A"
+	},
+
+	{
+		"question": "What is the first letter of the Greek alphabet?",
+		"possible": [
+			"Zed",
+			"Aleph",
+			"Aye",
+			"Alpha"
+		],
+		"answer": "D"
+	}
+]

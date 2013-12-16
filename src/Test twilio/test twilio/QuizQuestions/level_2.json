@@ -1,0 +1,56 @@
+[
+	{
+		"question": "According to a popular expression, what is in the eye of the beholder?",
+		"possible": [
+			"Art",
+			"Beauty",
+			"Magic",
+			"Dust"
+		],
+		"answer": "B"
+	},
+
+	{
+		"question": "When the police secretly watch the activities of a suspect from an unseen location, it's called a what?",
+		"possible": [
+			"Stakeout",
+			"Cookout",
+			"Shootout",
+			"Pig-out"
+		],
+		"answer": "A"
+	},
+
+	{
+		"question": "Which part of the body are you most likely to 'stub'?",
+		"possible": [
+			"Toe",
+			"Knee",
+			"Elbow",
+			"Brain"
+		],
+		"answer": "A"
+	},
+
+	{
+		"question": "Clouds are composed mainly of what?",
+		"possible": [
+			"Cotton",
+			"Light",
+			"Water Vapour",
+			"Candyfloss"
+		],
+		"answer": "C"
+	},
+
+	{
+		"question": "What name is legally used to indicate a woman whose name is unknown?",
+		"possible": [
+			"Joan Doe",
+			"Jean Doe",
+			"Lotta Doe",
+			"Jane Doe"
+		],
+		"answer": "D"
+	}
+]
